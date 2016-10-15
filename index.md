@@ -9,19 +9,19 @@
 - 会社員 (フロントエンド)
 
 
-### ![](/assets/img/001.png) <!-- .element: style="margin: 0; height: 600px;" -->
+### ![](./assets/img/001.png) <!-- .element: style="margin: 0; height: 600px;" -->
 <!-- .element: style="margin: 0;" -->
 
 
-### ![](/assets/img/002.png) <!-- .element: style="margin: 0;" -->
+### ![](./assets/img/002.png) <!-- .element: style="margin: 0;" -->
 <!-- .element: style="margin: 0;" -->
 
 
-### ![](/assets/img/003.png) <!-- .element: style="margin: 0;" -->
+### ![](./assets/img/003.png) <!-- .element: style="margin: 0;" -->
 <!-- .element: style="margin: 0;" -->
 
 
-### ![](/assets/img/004.png) <!-- .element: style="margin: 0; height: 600px;" -->
+### ![](./assets/img/004.png) <!-- .element: style="margin: 0; height: 600px;" -->
 <!-- .element: style="margin: 0;" -->
 
 
@@ -195,7 +195,7 @@ vue-loader <!-- .element: class="fragment" data-fragment-index="0" -->
 ---
 
 
-## ![](/assets/img/logo_react.png) <!-- .element: width="120" -->
+## ![](./assets/img/logo_react.png) <!-- .element: width="120" -->
 React で CSS カプセル化の可能性 <!-- .element: class="fragment" data-fragment-index="0" -->
 
 
