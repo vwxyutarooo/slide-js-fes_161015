@@ -53,5 +53,19 @@ $selectionBackgroundColor: $magenta;
 
 
 // Theme template ------------------------------
+@import "../template/settings";
 @import "../template/theme";
 // ---------------------------------------------
+
+
+
+.reveal {
+	code {
+		color: $blue;
+	}
+	pre {
+		code {
+			color: #dcdcdc;
+		}
+	}
+}

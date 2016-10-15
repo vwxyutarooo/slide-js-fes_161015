@@ -2,30 +2,30 @@
 // overridden by the super-theme
 
 // Background of the presentation
-$backgroundColor: #2b2b2b;
+$backgroundColor: #01222D;
 
 // Primary/body text
-$mainFont: 'Lato', sans-serif;
+$mainFont: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Impact, sans-serif;
 $mainFontSize: 36px;
-$mainColor: #eee;
+$mainColor: #dfdfdf;
 
 // Vertical spacing between blocks of text
 $blockMargin: 20px;
 
 // Headings
 $headingMargin: 0 0 $blockMargin 0;
-$headingFont: 'League Gothic', Impact, sans-serif;
-$headingColor: #eee;
-$headingLineHeight: 1.2;
-$headingLetterSpacing: normal;
-$headingTextTransform: uppercase;
+$headingFont: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Impact, sans-serif;
+$headingColor: #cde1ff;
+$headingLineHeight: 1.4;
+$headingLetterSpacing: .05em;
+$headingTextTransform: normal;
 $headingTextShadow: none;
-$headingFontWeight: normal;
+$headingFontWeight: 300;
 $heading1TextShadow: $headingTextShadow;
 
-$heading1Size: 3.77em;
-$heading2Size: 2.11em;
-$heading3Size: 1.55em;
+$heading1Size: 1.3em;
+$heading2Size: 1.5em;
+$heading3Size: 1.25em;
 $heading4Size: 1.00em;
 
 // Links and actions

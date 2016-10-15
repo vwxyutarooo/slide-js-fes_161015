@@ -95,7 +95,8 @@ module.exports = function(grunt) {
 					port: port,
 					base: base,
 					livereload: true,
-					open: true
+					open: true,
+					browser: 'google chrome canary'
 				}
 			}
 		},
@@ -126,10 +127,10 @@ module.exports = function(grunt) {
 				tasks: 'css-core'
 			},
 			html: {
-				files: [ '*.html']
+				files: [ '*.html' ]
 			},
 			markdown: {
-				files: [ '*.md' ]
+				files: [ '*.md', '!*.note.md' ]
 			},
 			options: {
 				livereload: true
