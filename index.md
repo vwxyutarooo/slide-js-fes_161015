@@ -395,7 +395,7 @@ CSS Module
 
 ### 特徴
 - CSS を CSS として書ける
-- ファイル単位でクラスに一意のハッシュを付与
+- CSS クラスに一意のハッシュを自動で付与
 
 
 ```css
@@ -497,7 +497,6 @@ render: <!-- .element: class="fragment" data-fragment-index="0" -->
     'style',
     'css?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]',
     'postcss-loader',
-    'sass'
   ] 
 }
 ```
